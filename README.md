@@ -2,8 +2,9 @@
 Payment Form
 
 Payment Gateways:
-PayPal
-Stripe
-Payeezy
-Square
-Authorize.Net
+
+* PayPal
+* Stripe
+* Payeezy
+* Square
+* Authorize.Net
